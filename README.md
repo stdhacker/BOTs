@@ -11,7 +11,6 @@
 | 📸 | **Instagram Group Bot** | Chats like a normal friend in group chats | [`InstaGram/Group_bot`](InstaGram/Group_bot) |
 | 💕 | **Instagram GF Bot** | AI companion for DMs and groups | [`InstaGram/GF_bot`](InstaGram/GF_bot) |
 | 💬 | **WhatsApp Bot** (Python) | Same as the group bot, for WhatsApp | [`WhatsApp/Python`](WhatsApp/Python) |
-| 💬 | **WhatsApp Bot** (Node.js) | Same, using whatsapp-web.js | [`WhatsApp/NodeJS`](WhatsApp/NodeJS) |
 | ✈️ | **Telegram Bot** | Coming soon | [`TeleGram`](TeleGram) |
 
 ## Quick start
@@ -35,7 +34,6 @@ You need one key, two is better (the bot switches if one fails).
 
 ## Stay safe
 
-- 🔑 Never commit passwords, API keys, `sessionid` or session files. The `.gitignore` already skips them.
 - 🧪 Use a new account, a few groups only, and one copy of the bot per account.
 - 🐢 Faster replies mean more ban risk. Slow the polling down if you see errors.
 
