@@ -1,0 +1,20 @@
+# Instagram bots 
+ig_session.json
+ig_config.json
+ig_gf_session.json
+ig_gf_config.json
+ig_gf_memory.json
+
+# WhatsApp Python bot
+config.json
+chat_log.json
+session.db
+*.db
+*.session
+*.session-journal
+
+
+igbot.py
+igbot_gf.py
+bot.py
+
